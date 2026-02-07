@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Gifted",
+  "base_artist": "Ha0 feat. gable",
+  "createdAt": "2026-02-07T19:50:02.050711Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blessed und Gifted",
+      "artist": "Samy Deluxe",
+      "has_synced": true,
+      "path": "select/01_Blessed_und_Gifted_Samy_Deluxe.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Teach the Gifted Children",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/02_Teach_the_Gifted_Children_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gifted",
+      "artist": "N.A.S.A. feat. Kanye West, Santigold & Lykke Li",
+      "has_synced": true,
+      "path": "select/03_Gifted_N.A.S.A._feat._Kanye_West,_Santigold_&_Lykke_Li.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gifted (Feat. Kanye West, Santogold & Lykke Li)",
+      "artist": "N.A.S.A.",
+      "has_synced": true,
+      "path": "select/04_Gifted_(Feat._Kanye_West,_Santogold_&_Lykke_Li)_N.A.S.A..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gifted",
+      "artist": "Clor",
+      "has_synced": false,
+      "path": "select/05_Gifted_Clor.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Gifted Man Brings Gifts Galore",
+      "artist": "Marcin Przybyłowicz",
+      "has_synced": true,
+      "path": "select/06_A_Gifted_Man_Brings_Gifts_Galore_Marcin_Przybyłowicz.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "To Be Young, Gifted and Black (Live)",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/07_To_Be_Young,_Gifted_and_Black_(Live)_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "To Be Young, Gifted and Black - Remastered",
+      "artist": "Nina Simone",
+      "has_synced": false,
+      "path": "select/08_To_Be_Young,_Gifted_and_Black_-_Remastered_Nina_Simone.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gifted (feat. Roddy Ricch)",
+      "artist": "Cordae feat. Roddy Ricch",
+      "has_synced": true,
+      "path": "select/09_Gifted_(feat._Roddy_Ricch)_Cordae_feat._Roddy_Ricch.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Young, Gifted and Black",
+      "artist": "Jay-Z",
+      "has_synced": true,
+      "path": "select/10_Young,_Gifted_and_Black_Jay-Z.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Young, Gifted and Black (Album Version Explicit)",
+      "artist": "Jay-Z",
+      "has_synced": true,
+      "path": "select/11_Young,_Gifted_and_Black_(Album_Version_Explicit)_Jay-Z.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Gifted (feat. Roddy Ricch & Ant Clemons) [Bonus]",
+      "artist": "Cordae",
+      "has_synced": true,
+      "path": "select/12_Gifted_(feat._Roddy_Ricch_&_Ant_Clemons)_[Bonus]_Cordae.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Young, Gifted & Black",
+      "artist": "Elton John",
+      "has_synced": false,
+      "path": "select/13_Young,_Gifted_&_Black_Elton_John.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Young Gifted and Black",
+      "artist": "Bob & Marcia",
+      "has_synced": false,
+      "path": "select/14_Young_Gifted_and_Black_Bob_&_Marcia.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Young, Gifted And Black",
+      "artist": "Bob And Marcia",
+      "has_synced": false,
+      "path": "select/15_Young,_Gifted_And_Black_Bob_And_Marcia.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Young Gifted and Black",
+      "artist": "Nina Simone",
+      "has_synced": false,
+      "path": "select/16_Young_Gifted_and_Black_Nina_Simone.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Gifted Hands",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/17_Gifted_Hands_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gifted",
+      "artist": "Ha0 feat. gable",
+      "has_synced": false,
+      "path": "select/pl_01_Gifted_Ha0_feat._gable.txt"
+    }
+  ]
+}
